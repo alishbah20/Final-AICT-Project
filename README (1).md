@@ -24,3 +24,8 @@ After the mids we learn about the HTML, CSS and we also craeted our own site. Af
 ## Website Live Link
 
 - https://alishbah20.github.io/Group_1-Tech_Startup_Portfolio/
+
+## Screenshots Of Website
+![Page 1](Screenshots%20of%20Websites/Screenshot%20page%20(1).png)
+![Page 2](Screenshots%20of%20Websites/Screenshot%20page%20(2).png)
+![Page 3](Screenshots%20of%20Websites/Screenshot%20page%20(3).png)
